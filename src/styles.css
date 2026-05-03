@@ -27,6 +27,21 @@ body {
   padding: 1rem;
 }
 
+.deprecation-card {
+  border-color: #fdba74;
+  background: #fff7ed;
+}
+
+.deprecation-card h2 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  color: #9a3412;
+}
+
+.deprecation-card p {
+  margin: 0;
+}
+
 .subtitle {
   margin-top: 0;
   color: #475569;

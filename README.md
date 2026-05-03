@@ -1,4 +1,15 @@
-# UNI_p to Lenex converter
+# DEPRECATED: This Repository Is Archived
+
+This repository is deprecated and kept for historical reference.
+
+Use the new repository instead:
+[https://github.com/hakostra/lenex-tools](https://github.com/hakostra/lenex-tools)
+
+Use the new deployed tool:
+[https://hakostra.github.io/lenex-tools/](https://hakostra.github.io/lenex-tools/)
+
+
+## Legacy UNI_p to Lenex converter
 
 This is a UNI_p to [Lenex](https://wiki.swimrankings.net/index.php/swimrankings:Lenex)
 converter running in your web browser. You can upload a Lenex file and a

@@ -852,6 +852,17 @@ const App = () => {
 
   return (
     <main className="app-shell">
+      <section className="card deprecation-card">
+        <h2>This Tool Is Deprecated</h2>
+        <p>
+          A newer version of this tool is available at{' '}
+          <a href="https://hakostra.github.io/lenex-tools/" target="_blank" rel="noreferrer">
+            https://hakostra.github.io/lenex-tools/
+          </a>
+          .
+        </p>
+      </section>
+
       <section className="card">
         <h1>UNI_p → Lenex Converter</h1>
         <p className="subtitle">Phase 1: Upload and inspect Lenex meet definition files.</p>
